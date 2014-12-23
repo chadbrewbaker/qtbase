@@ -1,1 +1,1 @@
-g++ qcheck.cpp  -std=c++1y ; ./a.out
+g++ qcheck.cpp  -std=c++1y -Wall; ./a.out
